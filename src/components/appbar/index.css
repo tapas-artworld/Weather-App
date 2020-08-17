@@ -1,0 +1,12 @@
+.mr-2{
+    margin-right: 10px !important;
+}
+.MuiAppBar-colorPrimary{
+    background-color: #052158 !important;
+}
+.glb-btn{
+    color: #052158 !important;
+    font-weight: bolder !important;
+}
+
+/* http://api.openweathermap.org/data/2.5/forecast?q=Delhi&appid=85fce8b8faa0016f798cb529a0427f7d */
