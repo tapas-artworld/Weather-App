@@ -1,9 +1,7 @@
 ### `How to run ?`
 
-git clone https://github.com/naresh0101/weatherV2.git
+git clone https://github.com/tapas-artworld/Weather-App.git
 
-cd weatherV2 && npm i or sudo npm i 
+cd Weather-App && npm i or sudo npm i 
 
 npm start 
-
-live demo https://gallant-bhaskara-a7c0b6.netlify.app/
